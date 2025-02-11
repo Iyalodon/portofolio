@@ -64,6 +64,13 @@
   .home {
     grid-template-columns: 1fr;
   }
+  .home__img {
+    height: 60%;
+    object-fit: cover;
+    border-radius: 30px;
+    box-shadow: 0 0 8px hsla(0, 0%, 0%, 0.3);
+    z-index: 1;
+  }
   .home__title {
     display: inline-block;
   }
