@@ -115,21 +115,35 @@
   .portfolio__container {
     grid-template-columns: 1fr;
   }
+
+  /* Update modal to fit better on mobile */
   .portfolio__modal {
-    position: fixed;
-    inset: 0;
-    background-color: hsla(0, 0%, 0%, 0.7);
-    z-index: 1000;
-    display: grid;
-    place-items: center;
-    padding: 15px;
-    max-width: 330px;
+    padding: 20px; /* Slightly more padding on mobile */
   }
+
+  .portfolio__modal-content {
+    width: 100%; /* Full width on mobile */
+    max-width: 90%; /* Limit the width to 90% of the screen */
+    padding: 20px; /* Reduced padding for better fit */
+  }
+
   .modal__close {
     position: absolute;
     top: 1%;
-    left: 1%;
+    right: 1%;
     width: 30px;
     height: 30px;
+  }
+
+  .modal__title {
+    font-size: 1.2rem; /* Adjusted title size for better fit on small screens */
+  }
+
+  .modal__list {
+    grid-template-columns: 1fr; /* Stack items vertically on small screens */
+  }
+
+  .modal__img {
+    height: 250px; /* Adjust image height on smaller screens */
   }
 }
