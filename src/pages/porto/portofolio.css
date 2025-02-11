@@ -50,6 +50,7 @@
   display: grid;
   place-items: center;
   padding: 15px;
+  max-width: 500px;
 }
 
 .portfolio__modal-content {
