@@ -65,7 +65,7 @@
     grid-template-columns: 1fr;
   }
   .home__data {
-    max-width: 600px;
+    max-width: 400px;
     /* margin-inline: auto; */
     padding: 5px;
   }
