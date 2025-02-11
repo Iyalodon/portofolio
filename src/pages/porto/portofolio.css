@@ -123,7 +123,7 @@
     max-width: 90%;
     padding: 20px;
     height: 80vh;
-    overflow-x: auto;
+    overflow-y: auto;
   }
   .modal__close {
     position: absolute;
