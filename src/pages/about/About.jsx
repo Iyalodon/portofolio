@@ -1,6 +1,5 @@
 import React from "react";
 import Info from "../../components/Info";
-import CV from "../../assets/steve-CV.pdf";
 import { FaDownload } from "react-icons/fa";
 import Status from "../../components/Status";
 import "./about.css";
@@ -24,12 +23,12 @@ const About = () => {
             <ul className="info__list grid">
               <Info />
             </ul>
-            <a href={CV} download="" className="button">
+            {/* <a href={CV} download="" className="button">
               Download CV{" "}
               <span className="button__icon">
                 <FaDownload />
               </span>
-            </a>
+            </a> */}
           </div>
           {/* <div className="stats grid">
             <Status />
