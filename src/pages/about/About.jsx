@@ -1,5 +1,5 @@
 import React from "react";
-import Info from "../../components/info";
+import Info from "../../components/Info";
 import CV from "../../assets/steve-CV.pdf";
 import { FaDownload } from "react-icons/fa";
 import Status from "../../components/Status";
