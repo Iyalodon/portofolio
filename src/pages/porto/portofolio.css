@@ -115,36 +115,21 @@
   .portfolio__container {
     grid-template-columns: 1fr;
   }
-
   .portfolio__modal {
-    padding: 20px;
+    position: fixed;
+    inset: 0;
+    background-color: hsla(0, 0%, 0%, 0.7);
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 15px;
+    max-width: 330px;
   }
-
-  .portfolio__modal-content {
-    width: 100%;
-    max-width: 90%;
-    padding: 20px;
-    height: 80vh;
-    word-wrap: break-word;
-  }
-
   .modal__close {
     position: absolute;
     top: 1%;
-    right: 1%;
+    left: 1%;
     width: 30px;
     height: 30px;
-  }
-
-  .modal__title {
-    font-size: 1.2rem;
-  }
-
-  .modal__list {
-    grid-template-columns: 1fr;
-  }
-
-  .modal__img {
-    height: 250px;
   }
 }
