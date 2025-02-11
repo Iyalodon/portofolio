@@ -50,7 +50,6 @@
   display: grid;
   place-items: center;
   padding: 15px;
-  max-width: 500px;
 }
 
 .portfolio__modal-content {
@@ -115,6 +114,16 @@
 @media (max-width: 768px) {
   .portfolio__container {
     grid-template-columns: 1fr;
+  }
+  .portfolio__modal {
+    position: fixed;
+    inset: 0;
+    background-color: hsla(0, 0%, 0%, 0.7);
+    z-index: 1000;
+    display: grid;
+    place-items: center;
+    padding: 15px;
+    max-width: 500px;
   }
   .modal__close {
     position: absolute;
