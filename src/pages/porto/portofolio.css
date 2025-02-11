@@ -123,6 +123,7 @@
     max-width: 90%;
     padding: 20px;
     height: 80vh;
+    overflow-x: auto;
   }
   .modal__close {
     position: absolute;
@@ -130,14 +131,5 @@
     left: 1%;
     width: 30px;
     height: 30px;
-  }
-
-  .modal__title,
-  .modal__item,
-  .item__title,
-  .item__details {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    white-space: normal;
   }
 }
