@@ -117,14 +117,15 @@
   }
 
   .portfolio__modal {
-    padding: 10px;
+    padding: 20px;
   }
 
   .portfolio__modal-content {
     width: 100%;
     max-width: 90%;
     padding: 20px;
-    max-height: 90vh;
+    height: 80vh;
+    word-wrap: break-word;
   }
 
   .modal__close {
