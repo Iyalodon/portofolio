@@ -63,11 +63,11 @@
 @media (max-width: 768px) {
   .home {
     grid-template-columns: 1fr;
-    align-items: center;
+  }
+  .home__data {
+    max-width: 600px;
+    margin-inline: auto;
     padding: 5px;
-    height: 100vh;
-    padding-left: 5px;
-    padding-right: 5px;
   }
 
   .home__img {
