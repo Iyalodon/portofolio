@@ -184,8 +184,7 @@
     justify-items: center;
     row-gap: 48px;
   }
-  /* .resume__container {
+  .resume__container {
     grid-template-columns: 1fr;
-    gap: 50px;
-  } */
+  }
 }
