@@ -116,15 +116,16 @@
     grid-template-columns: 1fr;
   }
 
-  /* Update modal to fit better on mobile */
   .portfolio__modal {
-    padding: 20px; /* Slightly more padding on mobile */
+    padding: 10px;
   }
 
   .portfolio__modal-content {
-    width: 100%; /* Full width on mobile */
-    max-width: 90%; /* Limit the width to 90% of the screen */
-    padding: 20px; /* Reduced padding for better fit */
+    width: 100%;
+    max-width: 90%;
+    padding: 20px;
+    max-height: 80vh;
+    overflow-y: auto;
   }
 
   .modal__close {
@@ -136,14 +137,14 @@
   }
 
   .modal__title {
-    font-size: 1.2rem; /* Adjusted title size for better fit on small screens */
+    font-size: 1.2rem;
   }
 
   .modal__list {
-    grid-template-columns: 1fr; /* Stack items vertically on small screens */
+    grid-template-columns: 1fr;
   }
 
   .modal__img {
-    height: 250px; /* Adjust image height on smaller screens */
+    height: 250px;
   }
 }
