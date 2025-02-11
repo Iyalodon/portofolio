@@ -47,7 +47,7 @@
   margin-block: 16px 32px;
 }
 
-.color__block {
+/* .color__block {
   position: fixed;
   height: 200%;
   width: 100%;
@@ -56,7 +56,7 @@
   left: -83%;
   transform: rotate(-15deg);
   z-index: -1;
-}
+} */
 
 /* RESPONSIVE */
 
@@ -66,7 +66,7 @@
   }
   .home__data {
     max-width: 600px;
-    margin-inline: auto;
+    /* margin-inline: auto; */
     padding: 5px;
   }
 
