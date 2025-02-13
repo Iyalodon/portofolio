@@ -166,7 +166,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: "2023",
     title: "Full-Stack Web Developer<span> Purwadhika Digital School; </span>",
-    desc: "Final Project Score: 81.5",
+    desc: "Final Project Score: 81.5 of 100",
   },
 
   {
