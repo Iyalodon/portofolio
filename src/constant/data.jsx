@@ -146,7 +146,7 @@ export const resume = [
     category: "experience",
     icon: <FaBriefcase />,
     year: "2022 - 2023",
-    title: "Administration Project <span> Themeforest </span>",
+    title: "Administration Project <span> PT. PLN Enjiniring </span>",
     desc: "Created and archived letters and other documents at PT. Prima Layanan Nasional Engineering, Created files, recorded progress information, and monitored the work status of each construction project within PT. Prima National Service Engineering, Assisted construction senior manager reports, Stored and maintained archives and similar documents required for activities at PT. Prima Layanan Nasional Engineering, Carried out other administrative tasks according to the needs of PT. Prima Layanan Nasional Engineering.",
   },
   {
