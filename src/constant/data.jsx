@@ -145,19 +145,18 @@ export const resume = [
     id: 1,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2023 - PRESENT",
-    title:
-      "Physics Teacher <span> Darul Hijrah Leadership Boarding School </span>",
-    desc: "Teach physic to Senior High School Students. Teaching from 10th grade (Basic Chemistry, Green Chemistry, Renewable Energy), 11th grade (from Vector to Thermodinamics), 12th Grade (from DC current to Modern Physics)",
+    year: "2022 - 2023",
+    title: "Administration Project <span> Themeforest </span>",
+    desc: "Created and archived letters and other documents at PT. Prima Layanan Nasional Engineering, Created files, recorded progress information, and monitored the work status of each construction project within PT. Prima National Service Engineering, Assisted construction senior manager reports, Stored and maintained archives and similar documents required for activities at PT. Prima Layanan Nasional Engineering, Carried out other administrative tasks according to the needs of PT. Prima Layanan Nasional Engineering.",
   },
-
   {
     id: 2,
     category: "experience",
     icon: <FaBriefcase />,
-    year: "2022 - 2023",
-    title: "Administration Project <span> Themeforest </span>",
-    desc: "Created and archived letters and other documents at PT. Prima Layanan Nasional Engineering, Created files, recorded progress information, and monitored the work status of each construction project within PT. Prima National Service Engineering, Assisted construction senior manager reports, Stored and maintained archives and similar documents required for activities at PT. Prima Layanan Nasional Engineering, Carried out other administrative tasks according to the needs of PT. Prima Layanan Nasional Engineering.",
+    year: "2019 - 2021",
+    title:
+      "Physics Teacher <span> Darul Hijrah Leadership Boarding School </span>",
+    desc: "Teach physic to Senior High School Students. Teaching from 10th grade (Basic Chemistry, Green Chemistry, Renewable Energy), 11th grade (from Vector to Thermodinamics), 12th Grade (from DC current to Modern Physics)",
   },
 
   {
