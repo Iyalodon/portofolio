@@ -148,7 +148,7 @@ export const resume = [
     year: "2023 - PRESENT",
     title:
       "Physics Teacher <span> Darul Hijrah Leadership Boarding School </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,",
+    desc: "Teach physic to Senior High School Students. Teaching from 10th grade (Basic Chemistry, Green Chemistry, Renewable Energy), 11th grade (from Vector to Thermodinamics), 12th Grade (from DC current to Modern Physics)",
   },
 
   {
@@ -157,7 +157,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: "2022 - 2023",
     title: "Administration Project <span> Themeforest </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    desc: "Created and archived letters and other documents at PT. Prima Layanan Nasional Engineering, Created files, recorded progress information, and monitored the work status of each construction project within PT. Prima National Service Engineering, Assisted construction senior manager reports, Stored and maintained archives and similar documents required for activities at PT. Prima Layanan Nasional Engineering, Carried out other administrative tasks according to the needs of PT. Prima Layanan Nasional Engineering.",
   },
 
   {
@@ -166,7 +166,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: "2023",
     title: "Full-Stack Web Developer<span> Purwadhika Digital School; </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
+    desc: "Final Project Score: 81.5",
   },
 
   {
@@ -176,7 +176,7 @@ export const resume = [
     year: "2018",
     title:
       "Bachelor of engineering in material engineering <span> Bandung Institute of Technology </span>",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do tempor incididunt ut labore",
+    desc: "IPK : 3.01 of 4",
   },
 
   {
@@ -185,7 +185,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: "2013",
     title: "Science Graduate <span>3 Senior Highschool of Lumajang </span>",
-    desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
+    // desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
   },
 ];
 
