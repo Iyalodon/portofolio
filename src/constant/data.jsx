@@ -192,7 +192,7 @@ export const resume = [
     category: "education",
     icon: <FaGraduationCap />,
     year: "2013",
-    title: "Science Graduate <span>3 Senior Highschool of Lumajang </span>",
+    title: "Science Graduate <span>Senior Highschool of 3 Lumajang </span>",
     // desc: "Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt",
   },
 ];
